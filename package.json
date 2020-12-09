@@ -1,0 +1,20 @@
+{
+  "name": "myretrogames",
+  "version": "1.0.0",
+  "description": "Your own game collection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierrecosta/myretrogames.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierrecosta/myretrogames/issues"
+  },
+  "homepage": "https://github.com/pierrecosta/myretrogames#readme"
+}
