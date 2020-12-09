@@ -2,11 +2,6 @@
   "name": "myretrogames",
   "version": "1.0.0",
   "description": "Your own game collection",
-  // no need because of Procfile
-  // "main": "index.js",
-  // "scripts": {
-  //  "start": "node index.js"
-  // },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pierrecosta/myretrogames.git"
